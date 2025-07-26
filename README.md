@@ -1,6 +1,5 @@
 # Real-Time Multiplayer Tic-Tac-Toe
-
-![Tic-Tac-Toe Gameplay](https://i.imgur.com/example.png)  <!-- You can replace this with a screenshot of your game! -->
+  <!-- You can replace this with a screenshot of your game! -->
 
 A classic game of Tic-Tac-Toe built with Python and Pygame, featuring a client-server architecture for real-time, two-player gameplay over a local network.
 
